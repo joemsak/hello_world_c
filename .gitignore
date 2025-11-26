@@ -1,5 +1,6 @@
 bin/*
 build/*
 
+!bin/clean
 !bin/.keep
 !build/.keep
